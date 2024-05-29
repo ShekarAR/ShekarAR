@@ -3,7 +3,7 @@ def cust_opt():
     print("________________")
     print("1 add coustmer ")
     print("2 view coustmer ")
-    print("3 mobile number emploee ")
+    print("3 mobile number custmer")
     print("0 prious menu ")
     print("9 Main menu ")
     print("________________")
